@@ -8,11 +8,15 @@ My name is Muhammad Nur Hanif. I am an enthusiastic informatics student who is c
 
 ###  💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,redux,bootstrap,tailwind,graphql,cpp,flutter,dart,git,r,java,php,mysql)](https://github.com/hanifmnh/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,redux,bootstrap,tailwind,graphql,cpp,flutter,dart,git,java,php,mysql)](https://github.com/hanifmnh/)
+
+---
 
 ###  📋 Stats
 
 [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=hanifmnh&theme=material-palenight&compact=true&layout=compact)](https://github.com/hanifmnh/)
+
+---
 
 ###  ✉ How to reach me
 
