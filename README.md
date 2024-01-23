@@ -1,8 +1,10 @@
 # Hi there, I'm Hanif 👋
 
-## About Me
+---
 
-My name is Muhammad Nur Hanif. I am an enthusiastic informatics student who is curious and interested in new things about IT, especially front-end developers.
+## 💫 About Me
+
+My name is Muhammad Nur Hanif. I am from Yogyakarta, Indonesia. I am an informatics student who has a high interest and dedication in the field of web programming technology, especially as a front-end developer.
 
 ---
 
