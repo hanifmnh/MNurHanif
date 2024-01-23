@@ -8,7 +8,7 @@ My name is Muhammad Nur Hanif. I am an enthusiastic informatics student who is c
 
 ###  💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,redux,bootstrap,tailwind,graphql,cpp,flutter,git,java,php,mysql)](https://github.com/hanifmnh/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,cpp)](https://github.com/hanifmnh/)
 
 ---
 
